@@ -266,18 +266,18 @@
     <string name="smart_pulldown_summary">Open quick settings when there are %1$s notifications</string>
     <string name="smart_pulldown_none_summary">Open quick settings when there are no notifications</string>
     <string name="smart_pulldown_off">Off</string>
-    <string name="smart_pulldown_none">no notifications</string>
-    <string name="smart_pulldown_dismissable">no dismissable</string>
-    <string name="smart_pulldown_ongoing">no ongoing</string>
+    <string name="smart_pulldown_none">Notifications (Override)</string>
+    <string name="smart_pulldown_dismissable">Dismissable (Override)</string>
+    <string name="smart_pulldown_ongoing">Ongoing (Override)</string>
 	
 	<!-- Quick pull down-->
     <string name="quick_pulldown_title">Quick pulldown</string>
-    <string name="quick_pulldown_summary">%1$s edge of the status bar pulls down Quick Settings</string>
-    <string name="quick_pulldown_summary_always">Always show Quick Settings on status bar pulldown</string>
+    <string name="quick_pulldown_summary">%1$s edge of the statusbar pulls down Quick Settings</string>
+    <string name="quick_pulldown_summary_always">Both edges of the statusbar pulls down Quick Settings</string>
     <string name="quick_pulldown_off">Off</string>
     <string name="quick_pulldown_left">Left</string>
     <string name="quick_pulldown_right">Right</string>
-    <string name="quick_pulldown_always">Always</string>
+    <string name="quick_pulldown_always">Both</string>
 	
 	<!-- Color tuner options -->
     <string name="display_color_title">Screen color &amp; appearance</string>
