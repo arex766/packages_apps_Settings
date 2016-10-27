@@ -266,18 +266,18 @@
   <string name="smart_pulldown_summary">Apri le impostazioni rapide quando ci sono %1$s notifiche presenti</string>
   <string name="smart_pulldown_none_summary">Apri le impostazioni rapide quando non ci sono notifiche presenti</string>
   <string name="smart_pulldown_off">Spenta</string>
-  <string name="smart_pulldown_none">Nessuna notifica</string>
-  <string name="smart_pulldown_dismissable">Nessuna rimovibile</string>
-  <string name="smart_pulldown_ongoing">Nessuna in corso</string>
+  <string name="smart_pulldown_none">Notifiche (Override)</string>
+  <string name="smart_pulldown_dismissable">Rimovibili (Override)</string>
+  <string name="smart_pulldown_ongoing">In corso (Override)</string>
 
    <!-- Quick pull down-->
   <string name="quick_pulldown_title">Discesa rapida</string>
   <string name="quick_pulldown_summary">Il bordo %1$s della barra di stato tira giù le impostazioni rapide</string>
-  <string name="quick_pulldown_summary_always">Mostra sempre le impostazioni rapide sulla barra di stato a tendina</string>
+  <string name="quick_pulldown_summary_always">Entrambi i bordi della barra di stato tirano giù le impostazioni rapide</string>
   <string name="quick_pulldown_off">Spento</string>
   <string name="quick_pulldown_left">Sinistra</string>
   <string name="quick_pulldown_right">Destra</string>
-  <string name="quick_pulldown_always">Sempre</string>
+  <string name="quick_pulldown_always">Entrambi</string>
 
    <!-- Color tuner options -->
    <string name="display_color_title">Colore dello schermo &amp; aspetto</string>
